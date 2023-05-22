@@ -1,4 +1,12 @@
-# kpmginternship-on-data-analyst
+# KPMG internship-on-data-analyst
+
+Sprocket Central Pty Ltd is a long-standing,g KPMG client that specializes in high-quality bikes and accessible cycling accessories for riders. Their marketing team is looking to boost business by analyzing their existing customer dataset to determine customer trends and behavior.
+
+Sprocket Central Pty Ltd has given us a new list of 1000 potential customers with their demographics and attributes. However, these customers do not have prior transaction history with the organization.
+
+The marketing team at Sprocket Central Pty Ltd is sure that, if correctly analyzed, the data would reveal useful customer insights which could help optimize resource allocation for targeted marketing. Hence, improve performance by focusing on high-value customers.
+
+
 Data cleaning, data processing and insight gathering
 
 Task
