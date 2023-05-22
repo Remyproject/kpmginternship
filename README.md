@@ -1,5 +1,7 @@
 # KPMG internship-on-data-analyst
 
+Introduction
+
 Sprocket Central Pty Ltd is a long-standing,g KPMG client that specializes in high-quality bikes and accessible cycling accessories for riders. Their marketing team is looking to boost business by analyzing their existing customer dataset to determine customer trends and behavior.
 
 Sprocket Central Pty Ltd has given us a new list of 1000 potential customers with their demographics and attributes. However, these customers do not have prior transaction history with the organization.
@@ -7,7 +9,6 @@ Sprocket Central Pty Ltd has given us a new list of 1000 potential customers wit
 The marketing team at Sprocket Central Pty Ltd is sure that, if correctly analyzed, the data would reveal useful customer insights which could help optimize resource allocation for targeted marketing. Hence, improve performance by focusing on high-value customers.
 
 
-Data cleaning, data processing and insight gathering
 
 Task
 
@@ -18,7 +19,7 @@ Task
 3. Please develop a dashboard that we can present to the client at our next meeting. Display your data summary and results of the analysis in a dashboard (see tools/references for assistance). Specifically, your presentation should specify who Sprocket Central Pty Ltd' should be targeting out of the new 1000 customer list. 
 
 
-Introduction
+
 Model Development
 Data Exploration
 Interpretation
@@ -34,7 +35,8 @@ VALIDITY : DOB
 
 MODEL DEVELOPMENT
 
-DATA CLEANING PROCESS
+DATA CLEANING PROCESSING: Data cleaning, data processing and insight gathering
+
 
 Added a filter to the dataset of each data.
 Checks for corrections
