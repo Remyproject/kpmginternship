@@ -69,6 +69,17 @@ Analyzing transactional data to track revenue and profitability over time. Visua
 
 
 
+Recommendation based on Analysis 
+
+Allocate resources to ensure these products remain popular and consider expanding the product line based on customer preferences.
+
+Tailor advertisements and promotions to appeal to females to generate more sales to maximize customer engagement and sales.
+
+Develop targeted strategies for different wealth segments, such as offering exclusive promotions or personalized recommendations to high-value customers.
+
+Tailor advertisements and offers resonate with professionals from different industries, showcasing how your products can address their unique needs.
+
+Recommend complementary products or upgrades to customers based on their past purchases, thereby increasing the average revenue per transaction.
 
 
 
