@@ -1,89 +1,49 @@
-# KPMG internship-on-data-analyst
-
 Introduction
 
-Sprocket Central Pty Ltd is a long-standing,g KPMG client that specializes in high-quality bikes and accessible cycling accessories for riders. Their marketing team is looking to boost business by analyzing their existing customer dataset to determine customer trends and behavior.
+Sprocket Central Pty Ltd is a long-standing KPMG client that specializes in high-quality bikes and accessible cycling accessories for riders. The company is looking to boost business by analyzing its existing customer dataset to determine customer trends and behavior.
 
-Sprocket Central Pty Ltd has given us a new list of 1000 potential customers with their demographics and attributes. However, these customers do not have prior transaction history with the organization.
+Data Quality Assessment
 
-The marketing team at Sprocket Central Pty Ltd is sure that, if correctly analyzed, the data would reveal useful customer insights which could help optimize resource allocation for targeted marketing. Hence, improve performance by focusing on high-value customers.
+A data quality assessment was conducted on the datasets provided by Sprocket Central Pty Ltd. The following data quality issues were identified:
 
-
-
-Task
-
-1. Take a look at the following datasets provided by Sprocket Central Pty Ltd and identify all data quality issues. Once you've had a look at these datasets, draft an email to the client identifying all data quality issues. 
-
-2.Create a PowerPoint presentation which outlines the approach we will be taking to identify which of the 1000 customers Sprocket Central Pty Ltd should target, based on this dataset. Explain the three phases:  Data Exploration; Model Development and Interpretation.
-
-3. Please develop a dashboard that we can present to the client at our next meeting. Display your data summary and results of the analysis in a dashboard (see tools/references for assistance). Specifically, your presentation should specify who Sprocket Central Pty Ltd' should be targeting out of the new 1000 customer list. 
-
-
-
+Accuracy: The list price and standard cost data were not accurate in some cases.
+Completeness: The job title, wealth segment, and gender data were not complete in some cases.
+Currency: The list price and standard cost data were not in the correct currency in some cases.
+Consistency: The job title, wealth segment, gender, and state data were not consistent in some cases.
+Relevant: The default column was not relevant to the analysis.
+Validity: The date of birth (DOB) data was not valid in some cases.
 Model Development
+
+A model was developed to identify which of the 1000 customers Sprocket Central Pty Ltd should target. The model was developed using the following steps:
+
+The customer demographic data was combined with the transactional data.
+Customer segments were created based on factors such as age, gender, job title, and location.
+Purchase patterns were analyzed to identify trends and patterns in customer purchases.
+Revenue and profit analysis was conducted to track revenue and profitability over time.
 Data Exploration
-Interpretation
 
-DATA ASSESMENTS
-  
-ACCURACY : List price, Standard cost. 
-COMPLETENESS : Job title, wealth segment, Gender
-CURRENCY : List price, Standard cost
-CONSISTENCY : Job title, wealth segment, Gender, State
-RELEVANT : Default
-VALIDITY : DOB
+The following insights were gained from the data exploration:
 
-MODEL DEVELOPMENT
+The most popular product categories are road bikes, mountain bikes, and cycling accessories.
+The most popular brands are Trek, Specialized, and Cannondale.
+The peak sales periods are the spring and summer months.
+There is a recurring purchasing behavior of customers buying new bikes every 3-5 years.
+Recommendations
 
-DATA CLEANING PROCESSING: Data cleaning, data processing and insight gathering
+Based on the analysis, the following recommendations are made:
 
-
-Added a filter to the dataset of each data.
-Checks for corrections
-Change data types to right format
-Delete banks 
-Delete unnecessary columns (e.g. Default column)
-Merge necessary columns together in excel
-
-DATA PROCESSING
-
-Exported data to MySQL for Queries
-Generates queries like Total Profit, Age, Average sales, e.t.c
-Generate insights for data visualizations
-Check data for errors, then proceeded to data visualizations.
-
-DATA EXPLORATION
-
-Customer Segmentation: 
-I combine the customer demographic data with transactional data to analyze customer segments based on factors such as age, gender, job title, and location. This help to provide insights into the most valuable customer segments, allowing investors to tailor their marketing and business strategies accordingly.
-![image](https://github.com/Remyproject/kpmginternship-on-data-analyst/assets/122668722/74df7743-da8e-4838-88f9-22c633e7d756)
-
-Purchase Patterns:
-Analyze transaction data to identify trends and patterns in customer purchases. This could include the most popular brands or product categories, peak sales periods, or any recurring purchasing behavior. I will Visualize this data using charts or graphs to showcase key insights to investors.
-![image](https://github.com/Remyproject/kpmginternship-on-data-analyst/assets/122668722/cec36f17-e7d3-49fd-8b9c-986999a8d45f)
-
-Revenue and Profit Analysis:
-Analyzing transactional data to track revenue and profitability over time. Visualize key performance indicators such as total revenue, average order value, or profit margins to highlight trends and key insights for investors.
-![image](https://github.com/Remyproject/kpmginternship-on-data-analyst/assets/122668722/f5d4f54e-2422-4a74-b183-66a515dd1f63)
-
-
-
-
-Recommendation based on Analysis 
-
-Allocate resources to ensure these products remain popular and consider expanding the product line based on customer preferences.
-
-Tailor advertisements and promotions to appeal to females to generate more sales to maximize customer engagement and sales.
-
+Allocate resources to ensure that the most popular products remain popular and consider expanding the product line based on customer preferences.
+Tailor advertisements and promotions to appeal to females to generate more sales.
 Develop targeted strategies for different wealth segments, such as offering exclusive promotions or personalized recommendations to high-value customers.
-
-Tailor advertisements and offers resonate with professionals from different industries, showcasing how your products can address their unique needs.
-
+Tailor advertisements and offers to resonate with professionals from different industries, showcasing how your products can address their unique needs.
 Recommend complementary products or upgrades to customers based on their past purchases, thereby increasing the average revenue per transaction.
 
+Conclusion
 
+The data analysis has provided valuable insights into Sprocket Central Pty Ltd's customers. These insights can be used to develop targeted marketing strategies that will help the company boost business.
 
-  
- 
+Dashboard
 
+A dashboard has been created to visualize the data analysis and the recommendations made. The dashboard can be used to present the findings to the client and to track the progress of the marketing strategies.
 
+Thank you for your time.
